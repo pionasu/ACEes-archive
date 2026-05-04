@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "title": "夢にチャレンジ！",
+        "date": "2026-04-26",
+        "tags": ["テレビ"],
+        "description": "出演メモ",
+        "links": [
+            {
+                "label": "TVer",
+                "url": "https://tver.jp/episodes/epiyi9662c",
+                "image": "https://image-cdn.tver.jp/w=1200,dpr=1/images/content/thumbnail/episode/xlarge/epiyi9662c.jpg?v=b2b30c7c"
+            }
+        ]
+    },
+
+
+
+    {
+        "id": "bachibachi",
+        "title": "バチバチSTAR",
+        "tags": ["テレビ"],
+        "officialLinks": [
+            {
+                "label": "公式サイト",
+                "url": "https://www.tv-asahi.co.jp/bachibachi/",
+                "labelX": "公式X",
+                "urlX": "https://x.com/bachistar_ex5?s=20"
+            }
+        ],
+        "episodes": [
+            {
+                "id": 1,
+                "date": "2025-10-18",
+                "title": "バチバチ平常心ダンスバトル！",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/1979155454115651785?s=20",
+                    "https://x.com/bachistar_ex5/status/1979161278988927417?s=20",
+                    "https://x.com/bachistar_ex5/status/1979429387436199949?s=20",
+                    "https://x.com/bachistar_ex5/status/1979464550815797347?s=20",
+                    "https://x.com/bachistar_ex5/status/1979466650698269088?s=20"
+                ]
+            },
+            {
+                "id": 2,
+                "date": "2025-11-15",
+                "title": "バチバチキメ顔STAR",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/1989569655065755655?s=20",
+                    "https://x.com/bachistar_ex5/status/1989598546702864818?s=20",
+                    "https://x.com/bachistar_ex5/status/1989599477695746303?s=20"
+                ]
+            },
+            {
+                "id": 3,
+                "date": "2025-12-6",
+                "title": "バチバチラッキースター",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/1996899407049248798?s=20",
+                    "https://x.com/bachistar_ex5/status/1997194524339408925?s=20",
+                    "https://x.com/bachistar_ex5/status/1997209656188649542?s=20",
+                    "https://x.com/bachistar_ex5/status/1997210475181101144?s=20",
+                    "https://x.com/bachistar_ex5/status/1999059677011996866?s=20"
+                ]
+            },
+            {
+                "id": 4,
+                "date": "2026-1-10",
+                "title": "先輩仲いい自慢グランプリ",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/2009573325732040963?s=20",
+                    "https://x.com/bachistar_ex5/status/2009901079287447828?s=20",
+                    "https://x.com/bachistar_ex5/status/2009902127481815240?s=20"
+                ]
+            },
+            {
+                "id": 5,
+                "date": "2026-2-7",
+                "title": "激辛5STAR",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/2019750420801876181?s=20",
+                    "https://x.com/bachistar_ex5/status/2020016572077846915?s=20",
+                    "https://x.com/bachistar_ex5/status/2020039298175861166?s=20",
+                    "https://x.com/bachistar_ex5/status/2020041921159446816?s=20",
+                    "https://x.com/bachistar_ex5/status/2021953969023857129?s=20"
+                ]
+            },
+            {
+                "id": 6,
+                "date": "2026-3-7",
+                "title": "バチバチ料理STAR",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/2029873962323525779?s=20",
+                    "https://x.com/bachistar_ex5/status/2030188067118813374?s=20",
+                    "https://x.com/bachistar_ex5/status/2030199569259417710?s=20",
+                    "https://x.com/bachistar_ex5/status/2031694859837567361?s=20",
+                    "https://x.com/bachistar_ex5/status/2032637841189253467?s=20"
+                ]
+            },
+            {
+                "id": 7,
+                "date": "2026-4-4",
+                "title": "罰ゲーム駆け引きバトル",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/2040015385068753041?s=20",
+                    "https://x.com/bachistar_ex5/status/2040309410934001947?s=20",
+                    "https://x.com/bachistar_ex5/status/2040332990681915640?s=20",
+                    "https://x.com/bachistar_ex5/status/2040334276802248762?s=20",
+                    "https://x.com/bachistar_ex5/status/2041829248869265489?s=20",
+                    "https://x.com/bachistar_ex5/status/2042784703753986400?s=20"
+                ]
+            },
+            {
+                "id": 8,
+                "date": "2026-5-2",
+                "title": "大袈裟マンは誰？うそリアクションはどっち！？",
+                "xLinks": [
+                    "https://x.com/bachistar_ex5/status/2050192648745717961?s=20",
+                    "https://x.com/bachistar_ex5/status/2050455712707584282?s=20",
+                    "https://x.com/bachistar_ex5/status/2050481162456629686?s=20",
+                    "https://x.com/bachistar_ex5/status/2050798222114005069?s=20"
+                ]
+            }
+        ]
+    }
+]
