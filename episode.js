@@ -31,14 +31,11 @@ fetch("data.json")
 
         document.getElementById("links").innerHTML = html;
 
-        if (window.twttr) {
-            window.twttr.widgets.load(document.getElementById("links"));
-        }
+        function loadTwitter() {
 
-        const loadTwitter = () => {
             if (window.twttr && window.twttr.widgets) {
-                window.twttr.widgets.load();
-            } else {
+                window.twttr.widgets.load(document.getElementById("links"));
+        } else {
                 setTimeout(loadTwitter, 1000);
             }
         };
