@@ -39,7 +39,7 @@ fetch("data.json")
             if (window.twttr && window.twttr.widgets) {
                 window.twttr.widgets.load();
             } else {
-                setTimeout(loadTwitter, 800);
+                setTimeout(loadTwitter, 1000);
             }
         };
 
